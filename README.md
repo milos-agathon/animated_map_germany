@@ -1,4 +1,4 @@
-# animated_map_germany
+# Animated map of Germany using R
 
 Curious as to how you can make your own animated choropleth map in R using <150 lines of code? My R script helps you create a pretty animated choropleth map of nightlight activity in Germany on the municipality level (2009-2018). I downloaded the shapefile of LAU 2019 from the Eurostat website (https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/lau) and  extracted German municipalities in QGIS.
 
